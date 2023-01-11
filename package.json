@@ -26,7 +26,7 @@
     "@nestjs/platform-express": "^6.11.6",
     "@types/mongoose": "^5.7.0",
     "class-transformer": "^0.2.3",
-    "class-validator": "^0.11.0",
+    "class-validator": "^0.14.0",
     "lodash": "^4.17.15",
     "mongoose": "^5.8.11",
     "reflect-metadata": "^0.1.13",
